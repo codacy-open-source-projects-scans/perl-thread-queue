@@ -1,7 +1,7 @@
-# perl-thread-queue - develop branch
+# Thread-Queue
+A module providing thread-safe FIFO queues for threads in Perl.
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
+This module is dual-lived in both the core Perl distribution and on CPAN.
 
-Commit Time: 1734571458
+Detailed information regarding this module can be found on [MetaCPAN](https://metacpan.org/pod/Thread::Cancel).
+
